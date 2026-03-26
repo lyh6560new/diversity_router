@@ -2,7 +2,7 @@
 
 Official code for paper "No Single Best Model for Diversity:
 Learning a Router for Sample Diversity"
-
+[website](https://diversity-router.github.io/) | [paper](placeholder)
 
 ---
 
@@ -21,11 +21,8 @@ pip install -r requirements.txt
 
 ## 2. Download Data
 
-Pre-computed model generations/scores are available on HuggingFace:
+Pre-computed model generations/scores are available on [HuggingFace](https://huggingface.co/datasets/yuhan-nlp/diversity-router-data):
 
-```
-https://huggingface.co/datasets/yuhan-nlp/diversity-router-data
-```
 
 This will serve as the input for diversity_router/process_cumsum.py
 
