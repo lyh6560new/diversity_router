@@ -1,0 +1,24 @@
+# Core ML/data
+torch==2.7.0+cu128
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.7.2
+scipy==1.15.3
+
+# Transformers / embeddings
+transformers==4.52.4
+sentence-transformers==5.1.2
+accelerate==1.7.0
+huggingface-hub==0.32.3
+datasets==3.6.0
+
+# Tokenization
+tiktoken==0.9.0
+
+# Visualization
+matplotlib==3.10.3
+seaborn==0.13.2
+umap-learn==0.5.9.post2
+
+# Utilities
+tqdm==4.67.1
