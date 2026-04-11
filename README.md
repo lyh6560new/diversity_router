@@ -2,7 +2,8 @@
 
 Official code for paper "No Single Best Model for Diversity:
 Learning a Router for Sample Diversity"
-[website](https://diversity-router.github.io/) | [paper](placeholder)
+
+[website](https://diversity-router.github.io/) | [paper](https://arxiv.org/pdf/2604.02319)
 
 ---
 
@@ -89,6 +90,7 @@ python diversity_router/mlp_classifier.py \
 ### MLP Classifier (single classifier, model-specific encoding)
 
 ```bash
+python diversity_router/mlp_classifier_n_model_en.py 
         --data wildchat \
         --strategy list_all \
         --n_epochs 10 \
