@@ -160,11 +160,16 @@ python diversity_router/mlp_classifier.py \
 **Single classifier, model-specific encoding:**
 
 ```bash
-python diversity_router/mlp_classifier_n_model_en.py \
-    --data wildchat --strategy list_all \
-    --n_epochs 10 --hidden_dim 512 --soft_labels \
-    --data_dir outputs_18_models --output_dir outputs_18_models \
-    --per_model_enc_embed concat_truncated --truncate_dim 200
+python diversity_router/mlp_classifier_n_model_en.py 
+        --data wildchat \
+        --strategy list_all \
+        --n_epochs 10 \
+        --hidden_dim 512 \
+        --soft_labels \
+        --data_dir outputs_18_models \
+        --output_dir outputs_18_models \
+        --per_model_enc_embed concat_truncated \
+        --truncate_dim 200
 ```
 
 ### Binary Classifiers
