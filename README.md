@@ -14,10 +14,6 @@
   <img src="assets/figure1.png" alt="No single best model for diversity" width="880">
 </p>
 
-<p align="center">
-  <sub><b>Left:</b> LLMs exhibit different diversity coverage on the same query. <b>Right:</b> No universal best model on <em>NB-WildChat</em>; different models win on different queries.</sub>
-</p>
-
 ---
 
 ## Overview
