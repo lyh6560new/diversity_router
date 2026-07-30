@@ -11,15 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/pdf/2604.02319"><img src="https://img.shields.io/badge/arXiv-2604.02319-b31b1b.svg" alt="arXiv"></a>
-  <a href="https://huggingface.co/datasets/yuhan-nlp/diversity-router-data"><img src="https://img.shields.io/badge/🤗%20HuggingFace-Data-yellow" alt="HuggingFace Data"></a>
-  <a href="https://diversity-router.github.io/"><img src="https://img.shields.io/badge/Website-diversity--router.github.io-4C9AFF" alt="Website"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
-  <img src="https://img.shields.io/badge/python-3.10-blue.svg" alt="Python 3.10">
-  <img src="https://img.shields.io/badge/PyTorch-2.7-ee4c2c.svg" alt="PyTorch 2.7">
-</p>
-
-<p align="center">
   <img src="assets/figure1.png" alt="No single best model for diversity" width="880">
 </p>
 
